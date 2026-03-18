@@ -1,6 +1,6 @@
 This is before ugadi 
 Tomorrow we have the class......
-
+This is perfect under
 clas Test 
 {
 public staic oid main sleeping() 
@@ -12,5 +12,8 @@ public staic oid main sleeping()
      working Working working ......
 }
 }
+<<<<<<< HEAD
 
 This is good understanding
+=======
+>>>>>>> 51cc71191a2eaf42a9bf81851c77b07dc70df915
